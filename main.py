@@ -590,4 +590,4 @@ async def _bailout(ctx):
         await ctx.channel.send('`Error: you cannot redeem a bailout unless you have zero points.`')
 
 
-bot.run('MTY5NTYzNDIzMTkxOTkwMjcz.Vw1sPg.gcskCX61sDrKQV_08PAPQnCKiTo')
+bot.run('bot key')
